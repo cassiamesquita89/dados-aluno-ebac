@@ -7,6 +7,8 @@ Dados do aluno
 -Feedback sobre o curso Qualidade de Software:
 -Feedback sobre a plataforma de estudo da EBAC:
 
+Alteracoes realizadas no arquivo.git
+
 Obrigado!!!
 
 
